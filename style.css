@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+span {
+    display: block;
+}
+.canvas {
+    margin:  100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.name {
+    display: inline-block;
+    padding-inline-start: 40px;
+    padding-inline-end: 40px;
+}
+
+#red{
+    background: red;
+}
+
+#green{
+    background: green;
+}
+#blue{
+    background: blue;
+}
+#white{
+    background: white;
+}
